@@ -2,6 +2,7 @@
   "extends": "next/core-web-vitals",
   "rules": {
     "react/prop-types": "off",
+    "react/jsx-key": "off",
     "import/no-anonymous-default-export": "off",
     "react/destructuring-assignment": "off",
     "react/jsx-props-no-spreading": "off",
